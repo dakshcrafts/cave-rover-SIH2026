@@ -327,10 +327,9 @@ cave-rover-SIH2026/
 
 ## Demo
 
-<!-- Replace the placeholder link below with your actual Google Drive video link -->
 [![Cave Rover Demo](https://img.shields.io/badge/Watch_Demo-Google_Drive-blue?style=for-the-badge)](YOUR_GOOGLE_DRIVE_LINK_HERE)
 
-> **Demo Video:** [Click here to watch the Cave Rover project video](YOUR_GOOGLE_DRIVE_LINK_HERE)
+> **Demo Video:** [Click here to watch the Cave Rover project video](https://drive.google.com/file/d/1FhaYqPQmC72nqI6UvRLzEP46hEDW_bzA/view?usp=drivesdk)
 
 ---
 
@@ -338,16 +337,13 @@ cave-rover-SIH2026/
 
 ### Build Photos
 
-<!-- Replace the placeholder link below with your actual image URL -->
-
-![Cave Rover Build](YOUR_IMAGE_LINK_1)
+![Cave Rover Build](cave-rover/assets/cave-rover-image.jpeg)
 
 **Cave Rover — Project Build**
 
 ### Circuit Diagram
 
-<!-- Replace with your actual circuit diagram image -->
-![Circuit Diagram](YOUR_CIRCUIT_DIAGRAM_IMAGE_LINK)
+![Circuit Diagram](cave-rover/assets/circuit-diagram.jpeg)
 
 ---
 
